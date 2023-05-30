@@ -4,4 +4,6 @@ NodeJS
 ### MongoDb with NodeJS Video Link
 - This folder (003_NodeJSwithMongoDB) has the code 
 
-[![Watch the video](https://github.com/kushalseth/NodeJS/blob/main/mongodbwithnode.jpg)](https://youtu.be/UDLkaUVLfrY)
+
+[<img src="https://github.com/kushalseth/NodeJS/blob/main/mongodbwithnode.jpg" height="50%" width="50%">](https://youtu.be/UDLkaUVLfrY)
+
