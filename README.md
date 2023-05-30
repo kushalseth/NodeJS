@@ -2,4 +2,4 @@
 NodeJS
 
 # MongoDb with NodeJS
-[![Watch the video](MongoDb with NodeJS)](https://youtu.be/UDLkaUVLfrY)
+[![Watch the video](https://github.com/kushalseth/NodeJS/blob/main/mongodbwithnode.jpg)](https://youtu.be/UDLkaUVLfrY)
