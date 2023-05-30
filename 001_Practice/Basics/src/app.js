@@ -3,7 +3,7 @@ const assert = require("assert");
 
 const circulationRepo = require("../repos/circulationRepos.js");
 const data = require("../Data/circulation.json");
-const uri = "mongodb+srv://new-user:luqxU2vFCjjmI6eW@node.yjcwvwq.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://<<user>>:<<password>>@node.yjcwvwq.mongodb.net/?retryWrites=true&w=majority";
 
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri);

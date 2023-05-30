@@ -1,5 +1,5 @@
 const { MongoClient } = require("mongodb");
-const url = "mongodb+srv://new-user:luqxU2vFCjjmI6eW@node.yjcwvwq.mongodb.net/?retryWrites=true&w=majority";
+const url = "mongodb+srv://<<user>>:<<password>>@node.yjcwvwq.mongodb.net/?retryWrites=true&w=majority";
 const dbName = "circulation";
 const collectionName = "newspapers";
 
