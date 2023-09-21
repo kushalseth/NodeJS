@@ -1,0 +1,19 @@
+{
+    "enableTests": {
+        "dropDatabase": false,
+        "loadData": false,
+        "get": true,
+        "filter": false,
+        "getById": false,
+        "add": false,
+        "update": false,
+        "remove": false,
+        "avgFinalist": false,
+        "adminCommands": false
+    },
+    "mongoDb": {
+        "dbUrl": "mongodb+srv://new-user:luqxU2vFCjjmI6eW@node.yjcwvwq.mongodb.net/?retryWrites=true&w=majority",
+        "dbName": "circulation",
+        "collectionName": "newspaper"
+    }
+}
