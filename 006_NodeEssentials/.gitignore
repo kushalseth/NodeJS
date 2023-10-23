@@ -1,0 +1,11 @@
+node_modules/
+001_Practice/Basics/node_modules
+
+.DS_Store
+.certs/
+.idea/
+.settings/
+.build/
+logs/access.log
+
+*.iml
