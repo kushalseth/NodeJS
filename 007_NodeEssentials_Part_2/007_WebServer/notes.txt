@@ -1,0 +1,7 @@
+to run the client.. open 007_WebServer in terminal and run this command:::::
+
+> npx serve ./client
+
+the client is integrated with server. to run the server.. navigate to server folder and run::
+
+> npm start
