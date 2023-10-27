@@ -1,2 +1,5 @@
 ../006_npm/node_modules
 ../007_WebServer/server/node_modules
+../008_WebSockets/server/node_modules
+../009_WebSockets_Socket_IO/node_modules
+../010_NodeJS_Testing/010_NodeJS_Testing

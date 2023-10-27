@@ -14,7 +14,7 @@ wss.on("connection", (ws) => {
     } else {
       wss.clients.forEach((client) => {
         // sending messages to all the clients
-        client.send(message.toString);
+        client.send(message.toString());
       });
     }
   });

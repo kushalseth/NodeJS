@@ -1,0 +1,7 @@
+we have to run client as well as server this time.
+
+in one terminal, first run the server, 
+> npm start
+
+in second terminal, open Folder 
+> node socket-client
